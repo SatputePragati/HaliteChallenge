@@ -1,0 +1,24 @@
+﻿  MyBot.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\utility(189): warning C4244: 'initializing': conversion from 'double' to 'const unsigned int', possible loss of data
+  d:\haliteaibotchallenge\mybot\mybot\hlt\hlt.h(63): note: see reference to function template instantiation 'std::pair<const _Kty,_Ty>::pair<const _Ty1,_Ty2&,void,0>(_Other1 &&,_Other2) noexcept(false)' being compiled
+          with
+          [
+              _Kty=unsigned int,
+              _Ty=hlt::Planet,
+              _Ty1=double,
+              _Ty2=hlt::Planet,
+              _Other1=double,
+              _Other2=hlt::Planet &
+          ]
+  d:\haliteaibotchallenge\mybot\mybot\hlt\hlt.h(63): note: see reference to function template instantiation 'std::pair<const _Kty,_Ty>::pair<const _Ty1,_Ty2&,void,0>(_Other1 &&,_Other2) noexcept(false)' being compiled
+          with
+          [
+              _Kty=unsigned int,
+              _Ty=hlt::Planet,
+              _Ty1=double,
+              _Ty2=hlt::Planet,
+              _Other1=double,
+              _Other2=hlt::Planet &
+          ]
+  MyBot.vcxproj -> D:\HaliteAIBotChallenge\MyBot\Debug\MyBot.exe
+  MyBot.vcxproj -> D:\HaliteAIBotChallenge\MyBot\Debug\MyBot.pdb (Partial PDB)
